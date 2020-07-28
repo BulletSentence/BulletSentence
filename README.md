@@ -12,7 +12,7 @@ I am currently a student at the Federal Institute of Maranhão and work as a Pro
  
 ### BulletSentence
 
-BulletSentence or just BS, is a nickname that I use online as an alter ego, is the name of virtually all my online profiles in forum and social networks.
+BulletSentence or just BS, is a nickname that I use online as an alter ego, is the name of virtually all my online profiles in forum and social networks and some videogames.
 <p>
  </p>
 
