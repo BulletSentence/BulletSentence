@@ -20,9 +20,6 @@ TEXT
 
  ---
 
-<p>
-  <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
-</p>
 
 ### My Digital Zone 🌱
 
