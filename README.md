@@ -1,6 +1,6 @@
 ### Hi there Iam Leo 👋:computer:
 
-TEXT
+I am currently a student at the Federal Institute of Maranhão and work as a Programmer at Blue Hat Geeks in Canada, I also do an internship as a web programmer at CDL Caxias in Brazil. I am also a database and security lover.
  
  <p align='center'>
 <a href="https://twitter.com/leoalmeidabs"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -16,12 +16,14 @@ TEXT
  
 ### BulletSentence
 
-TEXT
+BulletSentence or just BS, is a nickname that I use online as an alter ego, is the name of virtually all my online profiles in forum and social networks.
+<p>
+ </p>
 
  ---
 
 
-### My Digital Zone 🌱
+### My Projects 🌱
 
 TEXT
 
