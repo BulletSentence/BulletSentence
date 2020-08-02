@@ -10,7 +10,7 @@ I am currently a student at the Federal Institute of Maranhão and work as a Pro
   <img width="115" align='left' src="https://user-images.githubusercontent.com/37451620/88662938-19de2880-d0b1-11ea-92c2-2952a183d82e.png">
 </p>
  
-### BulletSentence
+### Me as BulletSentence
 
 BulletSentence or just BS, is a nickname that I use online as an alter ego, is the name of virtually all my online profiles in forum and social networks and some videogames.
 <p>
