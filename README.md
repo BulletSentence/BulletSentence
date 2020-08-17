@@ -4,12 +4,15 @@ I am currently a student at the Federal Institute of Maranhão and work as a Pro
 
 Portfolio and Projects: https://github.com/BulletSentence
 
-
   ---
- 
- <p>
-  <img width="115" align='left' src="https://user-images.githubusercontent.com/37451620/88662938-19de2880-d0b1-11ea-92c2-2952a183d82e.png">
-</p>
+
+
+<div>
+    <a href="https://github.com/bulletsentence?tab=repositories">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulletsentence&layout=compact" width="400" height="200"/>
+    </a>
+</div>
+
  
 ### Me as BulletSentence
 
@@ -24,6 +27,7 @@ BulletSentence or just BS, is a nickname that I use online as an alter ego, is t
 <a href="https://www.linkedin.com/in/leonardo-almeida-de-ara%C3%BAjo-9b7576135/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 </p>
+
 
  ---
 
