@@ -27,7 +27,8 @@ BulletSentence or just BS, is a nickname that I use online as an alter ego, is t
 <a href="https://www.linkedin.com/in/leonardo-almeida-de-ara%C3%BAjo-9b7576135/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 </p>
-
+<p></p>
+<br>
 
  ---
 
