@@ -5,8 +5,8 @@ I am currently a student at the Federal Institute of Maranhão and work as a Pro
 Portfolio and Projects: https://bulletsentence.github.io
 
   ---
-
-<script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/buy-me-a-coffee-21" style="max-width: 500px; min-width: 250px; max-height:none!important" width="100%"></iframe>
+  
+<a target="_blank" href="https://donorbox.org/buy-me-a-coffee-21?default_interval=o"><img src="https://d1iczxrky3cnb2.cloudfront.net/button-medium-blue.png" /></a>
 
 <div>
     <a href="https://github.com/bulletsentence?tab=repositories">
