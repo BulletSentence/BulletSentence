@@ -14,11 +14,7 @@ Portfolio and Projects: https://bulletsentence.github.io
 </div>
 
  
-### Me as BulletSentence
-
-BulletSentence or just BS, is a nickname that I use online as an alter ego, is the name of virtually all my online profiles in forum and social networks and some videogames.
-<p>
- </p>
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=bulletsentence&theme=light&show_icons=true" />
 
  <p align='center'>
 <a href="https://bulletsentence.github.io/"><img height="30" src="https://image.flaticon.com/icons/svg/3314/3314855.svg"></a>&nbsp;&nbsp;
