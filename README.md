@@ -6,7 +6,7 @@ Portfolio and Projects: https://bulletsentence.github.io
 
   ---
  ### Want to buy me a coffee? 
-<a target="_blank" href="https://donorbox.org/buy-me-a-coffee-21?default_interval=o"><img src="https://d1iczxrky3cnb2.cloudfront.net/button-medium-blue.png" height="20"/></a>
+<a target="_blank" href="https://donorbox.org/buy-me-a-coffee-21?default_interval=o"><img src="https://d1iczxrky3cnb2.cloudfront.net/button-medium-blue.png" height="50"/></a>
 
   ---
 
