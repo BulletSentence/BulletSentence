@@ -2,7 +2,7 @@
 
 I am currently a student at the Federal Institute of Maranhão and work as a Programmer at Blue Hat Geeks in Canada, I am a database and security lover too.
 
-Portfolio and Projects: https://github.com/BulletSentence
+Portfolio and Projects: https://bulletsentence.github.io
 
   ---
 
