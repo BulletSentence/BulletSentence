@@ -4,15 +4,7 @@ I am currently a student at the Federal Institute of Maranhão and work as a Pro
 
 Portfolio and Projects: https://bulletsentence.github.io
 
----
-
- <p align='center'>
-<a href="https://bulletsentence.github.io/"><img height="30" src="https://image.flaticon.com/icons/svg/3314/3314855.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/leoalmeidabs"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/leoalmeidabs"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/leonardo-almeida-de-ara%C3%BAjo-9b7576135/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-
----
+  ---
 
 
 <div>
@@ -22,7 +14,17 @@ Portfolio and Projects: https://bulletsentence.github.io
 </div>
 
  
-<img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=bulletsentence&theme=light&show_icons=true" />
+### Me as BulletSentence
+
+BulletSentence or just BS, is a nickname that I use online as an alter ego, is the name of virtually all my online profiles in forum and social networks and some videogames.
+<p>
+ </p>
+
+ <p align='center'>
+<a href="https://bulletsentence.github.io/"><img height="30" src="https://image.flaticon.com/icons/svg/3314/3314855.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/leoalmeidabs"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/leoalmeidabs"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/leonardo-almeida-de-ara%C3%BAjo-9b7576135/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 </p>
 <p></p>
