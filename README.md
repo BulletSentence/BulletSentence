@@ -1,4 +1,4 @@
-### Hi there I am Leo 👋:computer:
+### Hi there I am Leo 👋:computer: 
 
 I am currently a student at the Federal Institute of Maranhão and work as a Programmer at Blue Hat Geeks in Canada, I am a database and security lover too.
 
