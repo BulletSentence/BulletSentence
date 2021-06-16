@@ -18,8 +18,9 @@ Portfolio and Projects: https://bulletsentence.github.io
 -----------
 
 ### Social Media
-
+<p align='center'>
 Sometimes I appear in some of these, it is a rare event, but it happens.
+</p>
 <p>
  </p>
  <br>
