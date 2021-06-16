@@ -8,7 +8,7 @@ Portfolio and Projects: https://bulletsentence.github.io
 
 <div align='center'>
     <a href="https://github.com/bulletsentence?tab=repositories">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulletsentence&layout=compact&count_private=true" width="400" height="200"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulletsentence&layout=compact&count_private=true" width="400" height="200"/>
     </a>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BulletSentence)](https://git.io/streak-stats)
@@ -17,7 +17,6 @@ Portfolio and Projects: https://bulletsentence.github.io
 
 -----------
 
-### Social Media
 <p align='center'>
 Sometimes I appear in some of these, it is a rare event, but it happens.
 </p>
