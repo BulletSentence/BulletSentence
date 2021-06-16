@@ -5,9 +5,9 @@ I am currently a student at the Federal Institute of Maranhão and work as a Pro
 Portfolio and Projects: https://bulletsentence.github.io
 
 -----------------------
-<p align='center'>
- Social Media
-<p>
+<h3 align='center'>
+* Social Media *
+<h3>
 
 <div>
 <p align='center'>
