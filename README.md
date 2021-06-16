@@ -20,7 +20,7 @@ Portfolio and Projects: https://bulletsentence.github.io
     </a>
   
    <a href="https://github.com/bulletsentence?tab=repositories">
-      <img align="left" margin-top"-1rem" src="http://github-readme-streak-stats.herokuapp.com?user=BulletSentence" width="400" height="200"/>
+      <img align="left" margin-top"-1rem" src="http://github-readme-streak-stats.herokuapp.com?user=BulletSentence" width="350"/>
     </a>
 
 </div>
