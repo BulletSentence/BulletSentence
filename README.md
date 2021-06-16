@@ -21,7 +21,7 @@ Portfolio and Projects: https://bulletsentence.github.io
 
 <div>
     <a href="https://github.com/bulletsentence?tab=repositories">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulletsentence&layout=compact&count_private=true" width="412"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulletsentence&count_private=true" width="205"/>
     </a>
 </div>
  
