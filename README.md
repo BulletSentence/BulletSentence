@@ -12,7 +12,10 @@ Portfolio and Projects: https://bulletsentence.github.io
     </a>
 </div>
 
- 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BulletSentence)](https://git.io/streak-stats)
+
+-----------
+
 ### Social Media
 
 Sometimes I appear in some of these, it is a rare event, but it happens.
@@ -20,7 +23,7 @@ Sometimes I appear in some of these, it is a rare event, but it happens.
  </p>
  <br>
 
- <p align='center'>
+ <p align='left'>
 <a href="https://bulletsentence.github.io/"><img height="30" src="https://image.flaticon.com/icons/svg/3314/3314855.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/leoalmeidabs"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/leoalmeidabs"><img height="30" src="https://user-images.githubusercontent.com/37451620/118635309-cfe24280-b7a9-11eb-89fd-55e69345e871.png?raw=true"></a>&nbsp;&nbsp;
