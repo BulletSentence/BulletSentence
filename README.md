@@ -4,6 +4,11 @@ I am currently a student at the Federal Institute of Maranhão and work as a Pro
 
 Portfolio and Projects: https://bulletsentence.github.io
 
+-----------------------
+<p align='center'>
+ Social Media
+<p>
+
 <div>
 <p align='center'>
 <a href="https://bulletsentence.github.io/"><img height="30" src="https://image.flaticon.com/icons/svg/3314/3314855.svg"></a>&nbsp;&nbsp;
