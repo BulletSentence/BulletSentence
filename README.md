@@ -21,17 +21,9 @@ Portfolio and Projects: https://bulletsentence.github.io
 
 <div>
     <a href="https://github.com/bulletsentence?tab=repositories">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulletsentence&layout=compact&count_private=true" width="350"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulletsentence&layout=compact&count_private=true" width="412"/>
     </a>
-  
-   <a href="https://github.com/bulletsentence?tab=repositories">
-      <img align="left" margin-top"-1rem" src="http://github-readme-streak-stats.herokuapp.com?user=BulletSentence" width="420"/>
-    </a>
-
 </div>
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BulletSentence&hide_border=true)](https://git.io/streak-stats)
-
-
-
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BulletSentence&hide_border=true)
 
