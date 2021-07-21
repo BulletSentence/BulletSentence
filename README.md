@@ -27,3 +27,7 @@ Portfolio and Projects: https://bulletsentence.github.io
  
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BulletSentence&hide_border=true&style=centerme)
 
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/BulletSentence/BulletSentence/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
