@@ -17,7 +17,7 @@ Portfolio and Projects: https://bulletsentence.github.io
 <a href="https://www.linkedin.com/in/leonardo-almeida-de-ara%C3%BAjo-9b7576135/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </div>
 
- ---
+ ----
 
 <div>
     <a href="https://github.com/bulletsentence?tab=repositories">
