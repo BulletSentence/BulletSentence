@@ -6,7 +6,7 @@ Portfolio and Projects: https://bulletsentence.github.io
 
 -----------------------
 <h3 align='center'>
-* Social Media ❤️ *
+* Social Media *
 <h3>
 
 <div>
