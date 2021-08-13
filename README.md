@@ -26,5 +26,4 @@ Portfolio and Projects: https://bulletsentence.github.io
 </div>
  
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BulletSentence&hide_border=true&style=centerme)
-
  
