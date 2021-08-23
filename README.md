@@ -1,28 +1,31 @@
-### Hi there I am Leo 👋:computer: 
-
-I am currently a student at the Federal Institute of Maranhão and work as a Programmer at Blue Hat Geeks in Canada and as a I.T. on CEFA in Brazil, I am a database and security lover too. 
-
-Portfolio and Projects: https://bulletsentence.github.io
-
------------------------
-<h3 align='center'>
-* Social Media *
-<h3>
+<h2> Hi, I'm Leo! </h2>
+<img align='right' src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="230">
+<p><em> Computer Science Student at <a href="https://caxias.ifma.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia do Maranhão</a>
+</br>
+Web Developer at <a href="https://bluehatgeeks.com/">Blue Hat Geeks</a>
+</br>
+I.T. at <a href="https://site.cefacoc.com.br/">Centro Educacional Facema</a>
+</br>
+</em></p>
 
 <div>
-<p align='center'>
+</br>
+<p align='Left'>
 <a href="https://bulletsentence.github.io/"><img height="30" src="https://image.flaticon.com/icons/svg/3314/3314855.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/leoalmeidabs"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/leoalmeidabs"><img height="30" src="https://user-images.githubusercontent.com/37451620/118635309-cfe24280-b7a9-11eb-89fd-55e69345e871.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/leonardo-almeida-de-ara%C3%BAjo-9b7576135/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </div>
 
- ----
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<div>
-    <a href="https://github.com/bulletsentence?tab=repositories">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulletsentence&count_private=true" width="205"/>
-    </a>
-</div>
- 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BulletSentence&hide_border=true&style=centerme)
+```javascript
+const Leo = {
+  code: [Javascript, HTML, CSS, PHP, Flutter, Python, Java],
+  tools: [Node, Styled-Components, Laravel],
+  architecture: [ "event-driven", "design system pattern"],
+}
+```
+<em><b>Want to check out some awesome projects? see </b><a href="https://bulletsentence.github.io/">My Lobby Page</a> :)</em>
+
+  ---
