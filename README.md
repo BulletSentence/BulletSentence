@@ -23,7 +23,7 @@ Developer at <a href="https://bluehatgeeks.com/">Blue Hat Geeks</a>
 const Leo = {
   code: [Javascript, HTML, CSS, PHP, Flutter, Python, Java],
   tools: [Node, Styled-Components, Laravel],
-  architecture: [ "event-driven", "design system pattern"],
+  architecture: ["event-driven", "design system pattern"],
   security: [HelmetJS, NetWatch]
 }
 ```
