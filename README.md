@@ -1,5 +1,4 @@
 <h2> Hi, I'm Leo! </h2>
-<img align='right' src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="230">
 <p><em> Computer Science Student at <a href="https://caxias.ifma.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia do Maranhão</a>
 </br>
 Developer at Blue Hat Geeks
