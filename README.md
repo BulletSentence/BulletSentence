@@ -21,7 +21,7 @@ Developer at Blue Hat Geeks
 ```javascript
 const Leo = {
   code: [Javascript, HTML, CSS, PHP, Flutter, Python, Java],
-  tools: [Node, Styled-Components, Laravel],
+  tools: [Node, Laravel, AWS],
   architecture: ["event-driven", "MVC", "MVVC"],
   security: [HelmetJS, NetWatch]
 }
