@@ -1,7 +1,7 @@
 <h2> Hi, I'm Leo! </h2>
 <p><em> Computer Science Student at <a href="https://caxias.ifma.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia do Maranhão</a>
 </br>
-Developer at Blue Hat Geeks
+DevOps at Blue Hat Geeks
 </br>
 </em></p>
 
