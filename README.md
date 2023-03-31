@@ -1,6 +1,9 @@
 <h2> Hi, I'm Leo! </h2>
 <p><em> Bachelor in Computer Science at <a href="https://caxias.ifma.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia do Maranhão</a>
 </br>
+Security Researcher 
+</br>
+</br>
 DevOps at Blue Hat Geeks
 </br>
 </em></p>
