@@ -16,6 +16,5 @@ const Leo = {
   security: [HelmetJS, NetWatch]
 }
 ```
-<em><b>Want to check out some awesome projects? see </b><a href="https://bulletsentence.github.io/">My Lobby Page</a> :)</em>
 
   ---
