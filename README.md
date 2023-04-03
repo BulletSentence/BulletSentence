@@ -13,7 +13,7 @@ DevOps at Blue Hat Geeks
 ```javascript
 const Leo = {
   code: [Javascript, NodeJS, Flutter, Ruby, Python, Java],
-  testing: [Jest, RSpec, Mockito, JUnit]
+  testing: [Jest, RSpec, Mockito, JUnit],
   tools: [Laravel, AWS, Terraform, Prometheus, Rails],
   architecture: ["tests-driven", "MVC", "MVVC"],
   security: [HelmetJS, NetWatch]
