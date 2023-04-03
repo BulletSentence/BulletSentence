@@ -14,7 +14,7 @@ DevOps at Blue Hat Geeks
 const Leo = {
   code: [Javascript, NodeJS, Flutter, Ruby, Python, Java],
   tools: [Laravel, AWS, Terraform, Prometheus, Rails],
-  architecture: ["event-driven", "MVC", "MVVC"],
+  architecture: ["tests-driven", "MVC", "MVVC"],
   security: [HelmetJS, NetWatch]
 }
 ```
