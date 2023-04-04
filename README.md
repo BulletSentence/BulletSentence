@@ -6,7 +6,7 @@ Security Researcher and Software Engineer
 </br>
 <i> My name is Leonardo, I am a big enthusiast of Databases and Security. My main focus of work and research is in Back-End Programming, Mobile, and Information Security. 
 
-With a solid 12-year education in the English language, I possess native-level proficiency in the language. Throughout my career, I have worked on challenging and interesting projects in the Information Technology field, using my skills in data analysis, software development, and security to help companies achieve their objectives. 
+With a solid knowledge of English language, I possess native-level proficiency in the language. Throughout my career, I have worked on challenging and interesting projects in the Information Technology field, using my skills in data analysis, software development, and security to help companies achieve their objectives. 
 
 Furthermore, I am passionate about Information Security and am constantly seeking ways to improve my skills to help companies protect their data against threats.
 </i>
