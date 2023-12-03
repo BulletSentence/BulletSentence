@@ -1,7 +1,7 @@
 <h2> Hi, I'm Leo! </h2>
 <p><em> Bachelor in Computer Science at <a href="https://caxias.ifma.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia do Maranhão</a>
 </br>
-Security Researcher and Software Engineer
+Software Engineer at <a href="https://www.credifit.com.br/">Credifit</a>
 </br>
 </br>
 <i> My name is Leonardo, I am a big enthusiast of Databases and Security. My main focus of work and research is in Back-End Programming, Mobile, and Information Security. 
