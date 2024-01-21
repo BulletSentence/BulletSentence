@@ -1,15 +1,12 @@
 <h2> Hi, I'm Leo! </h2>
-<p><em> Bachelor in Computer Science at <a href="https://caxias.ifma.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia do Maranhão</a>
-<p><em> Postgraduate in A.I. at <a href="https://www.ufv.br/">Universidade Federal de Viçosa</a>
-</br>
+<p><em>Bachelor in Computer Science at <a href="https://caxias.ifma.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia do Maranhão</a></em></p>
+<p><em> Postgraduate in A.I. at <a href="https://www.ufv.br/">Universidade Federal de Viçosa</a></em></p>
 Software Engineer at <a href="https://www.credifit.com.br/">Credifit</a>
 </br>
 </br>
-<i> My name is Leonardo, I am a big enthusiast of Databases and Security. My main focus of work and research is in Back-End Programming, Mobile, and Information Security. 
-
-With a solid knowledge of English language, I possess native-level proficiency in the language. Throughout my career, I have worked on challenging and interesting projects in the Information Technology field, using my skills in data analysis, software development, and security to help companies achieve their objectives. 
-
-Furthermore, I am passionate about Information Security and am constantly seeking ways to improve my skills to help companies protect their data against threats.
+<i> I'm Leonardo, I'm a big programming and data security enthusiast, I currently work as a Full-Stack.
+  
+In my free time I do projects focused on network security using A.I.
 </i>
 </em></p>
 
@@ -18,9 +15,8 @@ Furthermore, I am passionate about Information Security and am constantly seekin
 ```javascript
 const Leo = {
   code: [Javascript, NodeJS, Flutter, Ruby, Python, Java],
-  testing: [Jest, RSpec, Mockito, JUnit],
-  tools: [Laravel, AWS, Terraform, Prometheus, Rails],
-  architecture: ["tests-driven", "MVC", "MVVC"],
+  testing: [Jest, Cypress, JUnit],
+  tools: [AWS, Terraform, Prometheus, Rails],
   security: [HelmetJS, NetWatch]
 }
 ```
