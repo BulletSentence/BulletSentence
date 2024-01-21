@@ -1,5 +1,6 @@
 <h2> Hi, I'm Leo! </h2>
 <p><em> Bachelor in Computer Science at <a href="https://caxias.ifma.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia do Maranhão</a>
+<p><em> Postgraduate in A.I. at <a href="https://www.ufv.br/">Universidade Federal de Viçosa</a>
 </br>
 Software Engineer at <a href="https://www.credifit.com.br/">Credifit</a>
 </br>
