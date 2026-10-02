@@ -1,5 +1,12 @@
 <h1 align="center">Leonardo Almeida de Araujo</h1>
 
+<h2 align="center">
+Public and open-source work lives here on GitHub. <br> Private and professional work lives on my
+  <a href="https://gitlab.com/LeoAlmeidaBS" target="_blank" rel="noopener noreferrer">
+    GitLab
+  </a>
+</h2>
+
 <p align="center">
   <strong>Software Engineer</strong> · Backend, Cloud & Application Security<br>
   Maranhão, Brazil
@@ -23,7 +30,6 @@ My focus areas are backend engineering, data modeling and application security. 
 - B.Sc. in Computer Science — [IFMA, Caxias](https://caxias.ifma.edu.br/)
 - Postgraduate in Artificial Intelligence — [Universidade Federal de Viçosa](https://www.ufv.br/)
 - Particularly interested in application security, data protection and secure API design
-- Public and experimental work lives here on GitHub; client and private work lives on [GitLab](https://gitlab.com/LeoAlmeidaBS)
 
 ---
 
