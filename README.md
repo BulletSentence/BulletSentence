@@ -16,7 +16,6 @@ Public and open-source work lives here on GitHub. <br> Private and professional 
   <a href="https://www.linkedin.com/in/leoalmeidabs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://gitlab.com/LeoAlmeidaBS"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"></a>
   <a href="https://bulletsentence.github.io/"><img src="https://img.shields.io/badge/Portfolio-1E2327?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <a href="https://twitter.com/LeoAlmeidaBS"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 ---
